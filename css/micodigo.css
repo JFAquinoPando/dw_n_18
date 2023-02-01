@@ -1,0 +1,13 @@
+    body {
+        background-color: rgb(93, 89, 89);
+        color: wheat;
+    }
+
+    .popover-header {
+        color: red;
+    }
+
+    .posicion {
+        text-align: center;
+        margin-top: 150px;
+    }
